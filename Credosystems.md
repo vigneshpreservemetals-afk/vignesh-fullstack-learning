@@ -8,3 +8,4 @@ Welcome to Credo Systems
 - Javascript
 - Git Hub
 - Azure
+- AWS
