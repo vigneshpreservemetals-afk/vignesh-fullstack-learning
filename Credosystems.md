@@ -11,3 +11,4 @@ Welcome to Credo Systems
 - AWS
 - Data Science
 
+- Data Analytics
