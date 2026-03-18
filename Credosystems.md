@@ -7,3 +7,4 @@ Welcome to Credo Systems
 - Css
 - Javascript
 - Git Hub
+- Azure
