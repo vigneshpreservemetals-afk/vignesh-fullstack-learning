@@ -9,3 +9,4 @@ Welcome to Credo Systems
 - Git Hub
 - Azure
 - AWS
+- Data Analytics
